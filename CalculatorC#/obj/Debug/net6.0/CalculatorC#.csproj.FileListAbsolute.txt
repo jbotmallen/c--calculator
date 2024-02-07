@@ -1,0 +1,15 @@
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.exe
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.deps.json
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.runtimeconfig.json
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.dll
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.pdb
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.csproj.AssemblyReference.cache
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.AssemblyInfoInputs.cache
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.AssemblyInfo.cs
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.csproj.CoreCompileInputs.cache
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.dll
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\refint\CalculatorC#.dll
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.pdb
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.genruntimeconfig.cache
+D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\ref\CalculatorC#.dll
