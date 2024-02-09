@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UiodjOvNWco7BBCaqjJqKcQ/Xs+qP06h5U7wnm53yN2jhnJFsSDdJWJjuFeydBX8uClX2FbhVXEGdlr09XQJxQ==",
+  "dgSpecHash": "5j1H2aFMAaPoDDzhf2LI+qmtAUud6s2K5Ei56f8ilFlt6CchvIsbaF68rSqL3+Kxq78Hhub3AlOd1t9ajNIVlg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Mobile-Development\\School-Activities\\calculator\\CalculatorC#\\CalculatorC#.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Documents\\School\\San Carlos\\2\\2nd\\MobDev\\c--calculator\\CalculatorC#\\CalculatorC#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

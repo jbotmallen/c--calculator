@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Mobile-Development\\School-Activities\\calculator\\CalculatorC#\\CalculatorC#.csproj": {}
+    "D:\\Documents\\School\\San Carlos\\2\\2nd\\MobDev\\c--calculator\\CalculatorC#\\CalculatorC#.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Mobile-Development\\School-Activities\\calculator\\CalculatorC#\\CalculatorC#.csproj": {
+    "D:\\Documents\\School\\San Carlos\\2\\2nd\\MobDev\\c--calculator\\CalculatorC#\\CalculatorC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Mobile-Development\\School-Activities\\calculator\\CalculatorC#\\CalculatorC#.csproj",
+        "projectUniqueName": "D:\\Documents\\School\\San Carlos\\2\\2nd\\MobDev\\c--calculator\\CalculatorC#\\CalculatorC#.csproj",
         "projectName": "CalculatorC#",
-        "projectPath": "D:\\GitHub\\Mobile-Development\\School-Activities\\calculator\\CalculatorC#\\CalculatorC#.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Mobile-Development\\School-Activities\\calculator\\CalculatorC#\\obj\\",
+        "projectPath": "D:\\Documents\\School\\San Carlos\\2\\2nd\\MobDev\\c--calculator\\CalculatorC#\\CalculatorC#.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\School\\San Carlos\\2\\2nd\\MobDev\\c--calculator\\CalculatorC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,16 +43,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.26, 6.0.26]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

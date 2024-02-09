@@ -150,9 +150,10 @@ namespace Program
                 try
                 {
                     Console.WriteLine("Enter the operation: ");
-                    op.operation = Console.ReadLine();
+                    Console.WriteLine("1. Add\n2. Subtraction\n3. Multiply\n4. Divide");
 
-                    CheckOperation(op);
+                    op.operation = Console.ReadLine();
+                        CheckOperation(op);
                 }
                 catch (Exception e)
                 {
@@ -178,16 +179,16 @@ namespace Program
         {
             switch (op.operation)
             {
-                case "+":
+                case "1":
                     op.Add(op.num1, op.num2);
                     break;
-                case "-":
+                case "2":
                     op.Subtract(op.num1, op.num2);
                     break;
-                case "*":
+                case "3":
                     op.Multiply(op.num1, op.num2);
                     break;
-                case "/":
+                case "4":
                     op.Divide(op.num1, op.num2);
                     break;
                 default:

@@ -13,3 +13,18 @@ D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug
 D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.pdb
 D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.genruntimeconfig.cache
 D:\GitHub\Mobile-Development\School-Activities\calculator\CalculatorC#\obj\Debug\net6.0\ref\CalculatorC#.dll
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.exe
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.deps.json
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.runtimeconfig.json
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.dll
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\bin\Debug\net6.0\CalculatorC#.pdb
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.AssemblyInfoInputs.cache
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.AssemblyInfo.cs
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.csproj.CoreCompileInputs.cache
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.sourcelink.json
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.dll
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\refint\CalculatorC#.dll
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.pdb
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\CalculatorC#.genruntimeconfig.cache
+D:\Documents\School\San Carlos\2\2nd\MobDev\c--calculator\CalculatorC#\obj\Debug\net6.0\ref\CalculatorC#.dll
