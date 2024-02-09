@@ -118,40 +118,51 @@ namespace Program
                 Console.WriteLine("----------------------------");
                 if (op.num1 == 0 && op.continueChoice == false)
                 {
-                    try
+                    do
                     {
-                        Console.WriteLine("Enter the first number: ");
-                        op.num1 = Convert.ToDouble(Console.ReadLine());
-                    }
-                    catch (Exception e)
-                    {
-                        Console.WriteLine("An error occurred: " + e.Message);
-                        op.SetToEmpty();
-                        DisplayMenu(op);
-                    }
+                        try
+                        {
+                            Console.WriteLine("Enter the first number: ");
+                            op.num1 = Convert.ToDouble(Console.ReadLine());
+                            break;
+                        }
+                        catch (Exception e)
+                        {
+                            Console.WriteLine("An error occurred: " + e.Message);
+                            op.num1 = 0;
+                            Console.WriteLine("Invalid value. ");
+                        }
+                    } while (true);
                 }
                 else
                 {
                     Console.WriteLine("Your first number is: " + op.num1);
                 }
 
-                try
+                do
                 {
-                    Console.WriteLine("Enter the second number: ");
-                    op.num2 = Convert.ToDouble(Console.ReadLine());
-                }
-                catch (Exception e)
-                {
-                    Console.WriteLine("An error occurred: " + e.Message);
-                    op.SetToEmpty();
-                    DisplayMenu(op);
-                }
+                    try
+                    {
+                        Console.WriteLine("Enter the second number: ");
+                        op.num2 = Convert.ToDouble(Console.ReadLine());
+                        break;
+                    }
+                    catch (Exception e)
+                    {
+
+                        Console.WriteLine("An error occurred: " + e.Message);
+                        op.num2 = 0;
+                        Console.WriteLine("Invalid value.");
+                    }
+
+                } while (true);
 
                 try
                 {
                     Console.WriteLine("Enter the operation: ");
-                    op.operation = Console.ReadLine();
+                    Console.WriteLine("1. Add\n2. Subtraction\n3. Multiply\n4. Divide");
 
+                    op.operation = Console.ReadLine();
                     CheckOperation(op);
                 }
                 catch (Exception e)
@@ -178,16 +189,16 @@ namespace Program
         {
             switch (op.operation)
             {
-                case "+":
+                case "1":
                     op.Add(op.num1, op.num2);
                     break;
-                case "-":
+                case "2":
                     op.Subtract(op.num1, op.num2);
                     break;
-                case "*":
+                case "3":
                     op.Multiply(op.num1, op.num2);
                     break;
-                case "/":
+                case "4":
                     op.Divide(op.num1, op.num2);
                     break;
                 default:
